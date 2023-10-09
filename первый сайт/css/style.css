@@ -1,0 +1,46 @@
+body{
+	background-color:#e8321a;
+	font-family: 'Sofia Sans Condensed', sans-serif;
+	margin: 0px 70px;
+	box-shadow:0 0 5px 20px black;
+
+}
+h1,h2{
+	font-size: 70px;
+	color: #4d0b0b;
+	text-emphasis:center;
+	text-shadow: 1px 6px black;
+}
+p{
+	font-size: 50px;
+	color: #4d0b0b;
+	text-emphasis:center;
+	text-shadow: 1px 6px black;
+}
+img{
+	width: 800px;
+	height:400px ;
+
+}
+div{
+	background-image: url(../img/фон.jpg);
+	
+	background-position:center;
+
+}
+button{
+width: auto;
+height: auto;
+border-radius: 20px;
+box-shadow:0 0 7px 10px black;
+margin-left: 1100px;
+
+
+}
+a{
+	font-size: 20px;
+	color:#4d0b0b;
+	text-decoration:none;
+	font-family: 'Sofia Sans Condensed', sans-serif;
+}
+
